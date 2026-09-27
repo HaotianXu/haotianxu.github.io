@@ -1,29 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>About on Haotian Xu</title>
-		<link>/</link>
-		<description>Recent content in About on Haotian Xu</description>
-		<generator>Hugo</generator>
-		<language>en</language>
-		
-		
-		
-		
-			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Research</title>
-				<link>/research/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/research/</guid>
-				<description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Online change point detection for multivariate inhomogeneous Poisson processes time series.&lt;/strong&gt;&lt;br/&gt;&#xA;Xiaokai Luo, &lt;em&gt;&lt;strong&gt;Haotian Xu&lt;/strong&gt;&lt;/em&gt;, Carlos Misael Madrid Padilla, and Oscar Hernan Madrid Padilla.&lt;br/&gt;&#xA;&lt;em&gt;International Conference on Machine Learning (ICML, to appear), 2026.&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2601.20192&#34;&gt;arXiv&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Change point localisation and inference in fragmented functional data.&lt;/strong&gt;&lt;br/&gt;&#xA;Gengyu Xue, &lt;em&gt;&lt;strong&gt;Haotian Xu&lt;/strong&gt;&lt;/em&gt;, and Yi Yu.&lt;br/&gt;&#xA;&lt;em&gt;Bernoulli&lt;/em&gt;, 32.2 (2026): 1456-1480. &lt;a href=&#34;https://doi.org/10.3150/25-BEJ1914&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estimation and inference for change points in functional regression time series.&lt;/strong&gt;&lt;br/&gt;&#xA;Shivam Kumar, &lt;em&gt;&lt;strong&gt;Haotian Xu&lt;/strong&gt;&lt;/em&gt;, Haeran Cho, and Daren Wang.&lt;br/&gt;&#xA;&lt;em&gt;Statistica Sinica (to appear), 2026.&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2405.05459&#34;&gt;arXiv&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Teaching</title>
-				<link>/teaching/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/teaching/</guid>
-				<description>&lt;h2 id=&#34;instructor&#34;&gt;Instructor:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Categorical Data Analysis (graduate), Auburn University, Spring 2026&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Regression Analysis (graduate), Auburn University, Fall 2025-2026&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Bayesian Forecasting and Intervention (undergraduate/graduate), University of Warwick, Spring 2024 and 2025&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Elementary Mathematical Statistics (undergraduate), Penn State University, Spring 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant:&lt;/h2&gt;&#xA;&lt;p&gt;(responsible for giving weekly recitation lectures/office hours, exam preparation, and grading)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Statistical Modeling (undergraduate), University of Geneva, Fall 2015-2020&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Business Analytics (undergraduate), University of Geneva, Fall 2016-2017&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Numerical Methods (undergraduate), University of Geneva, Fall 2020&lt;/p&gt;</description>
-			</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Haotian Xu</title><link>https://haotianxu.github.io/</link><description>Recent content in About on Haotian Xu</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://haotianxu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://haotianxu.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://haotianxu.github.io/research/</guid><description>&lt;p&gt;Publications and preprints on change point inference, high-dimensional time series, and nonparametric estimation.&lt;/p&gt;
+&lt;p&gt;For citation information, see my &lt;a href="https://scholar.google.com/citations?user=AKcttAUAAAAJ&amp;amp;hl=en"&gt;Google Scholar profile&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Teaching</title><link>https://haotianxu.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://haotianxu.github.io/teaching/</guid><description>&lt;h2 id="courses-taught"&gt;Courses taught&lt;/h2&gt;
+&lt;h3 id="auburn-university"&gt;Auburn University&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Regression Analysis&lt;/strong&gt;&lt;br&gt;
+Graduate · Fall 2025 and 2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Categorical Data Analysis&lt;/strong&gt;&lt;br&gt;
+Graduate · Spring 2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="university-of-warwick"&gt;University of Warwick&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Forecasting and Intervention&lt;/strong&gt;&lt;br&gt;
+Undergraduate and graduate · Spring 2024 and 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="pennsylvania-state-university"&gt;Pennsylvania State University&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Elementary Mathematical Statistics&lt;/strong&gt;&lt;br&gt;
+Undergraduate · Spring 2023&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="teaching-assistant"&gt;Teaching Assistant&lt;/h2&gt;
+&lt;h3 id="university-of-geneva"&gt;University of Geneva&lt;/h3&gt;
+&lt;p&gt;Responsibilities included weekly recitation lectures and office hours, exam preparation, and grading.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistical Modeling&lt;/strong&gt;&lt;br&gt;
+Undergraduate · Fall 2015–2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Business Analytics&lt;/strong&gt;&lt;br&gt;
+Undergraduate · Fall 2016–2017&lt;/p&gt;</description></item></channel></rss>
